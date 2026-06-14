@@ -1,0 +1,16 @@
+id,sentence,label,token_count
+S01,Finnish pharmaceuticals company Orion 's net sales rose to EUR 190mn in the first quarter of 2009 from EUR 180mn in the first quarter of 2008 .,positive,28
+S02,The loss for the third quarter of 2007 was EUR 0.3 mn smaller than the loss of the second quarter of 2007 .,positive,22
+S03,"This new deal has strengthened the partnership from Telemig Celular and Tecnomen , which it has started since the beginning of Telemig 's prepaid operations .",positive,24
+S04,Alma Media expects its net sales to increase as forecast previously .,positive,11
+S05,Finnish mobile operator DNA will function as a subcontractor to Maingate and will be responsible for telecommunications connections .,positive,18
+S06,Self-service and automation are in a bigger role now and Fujitsu 's global resources will be exploited effectively .,positive,19
+S07,The increase in capital stock has been registered in the Finnish Trade Register on 20 November 2006 .,positive,17
+S08,"Adjusted for changes in the Group structure , the Division 's net sales increased by 1.7 % .",positive,15
+S09,This will bring cost savings of about EUR 3mn a year .,positive,12
+S10,"W+ñrtsil+ñ 's solution has been selected for its low fuel consumption , environmentally sound technology , and global service support .",positive,19
+S11,"The adapter , awarded with the `` Certified Integration for SAP -« ; NetWeaver '' endorsement , integrates Basware s invoice automation and procurement solutions with more than 200 different ERP systems .",positive,26
+S12,"Operating profit was EUR 9.8 mn , compared to a loss of EUR 12.7 mn in the corresponding period in 2009 .",positive,20
+S13,"Svyturys-Utenos Alus , which is controlled by the Nordic group Baltic Beverages Holding ( BBH ) , posted a 4.7-per-cent growth in beer sales for January-May to 46.22 million litres .",positive,30
+S14,"Finnish steel maker Rautaruukki Oyj ( Ruukki ) said on July 7 , 2008 that it won a 9.0 mln euro ( $ 14.1 mln ) contract to supply and install steel superstructures for Partihallsforbindelsen bridge project in Gothenburg , western Sweden .",positive,35
+S15,Poyry has a good track record of major transportation projects in Latin America .,positive,13

@@ -1,0 +1,7 @@
+choice,decision,reason
+Lowercasing,Applied,Reduces duplicate vocabulary forms such as Profit/profit.
+Tokenization,Applied,"Needed for bag-of-words, TF-IDF, and frequency analysis."
+Punctuation removal,Applied,Most punctuation is not expected to carry strong sentiment in short financial headlines.
+Number handling,Applied as <NUM>,Financial news contains many values; replacing them preserves numeric signal without creating many rare tokens.
+Stop-word removal,Applied carefully,"Common words are removed, but negation terms such as not/no/never are kept because they affect polarity."
+Stemming or lemmatization,Not applied by default,"The dataset contains short financial sentences, and aggressive word reduction may remove useful domain-specific distinctions."

@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+
+# Optional for real pre-trained vectors in Task 4:
+# spacy
+# python -m spacy download en_core_web_md
