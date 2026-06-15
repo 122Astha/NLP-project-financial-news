@@ -1,0 +1,9 @@
+experiment,accuracy,macro_f1
+4. Naive Bayes with Bag-of-Words,0.7134,0.6519
+5. Naive Bayes with TF-IDF,0.6794,0.4351
+6. Neural Network with Bag-of-Words,0.7,0.6428
+7. Neural Network with TF-IDF,0.6897,0.6327
+11. Binary Naive Bayes with Bag-of-Words,0.8071,0.7734
+12. Binary Naive Bayes with TF-IDF,0.7589,0.6069
+13. Binary Neural Network with Bag-of-Words,0.7995,0.766
+14. Binary Neural Network with TF-IDF,0.7995,0.765
